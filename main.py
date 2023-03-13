@@ -12,3 +12,4 @@ df = pl.DataFrame(
 )
 
 print(df)
+(df.dtypes)
