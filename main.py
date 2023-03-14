@@ -11,5 +11,4 @@ df = pl.DataFrame(
      }
 )
 
-print(df)
-(df.dtypes)
+print(df.dtypes)
